@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main: Entry point
- * Description: printing all alphabets in lowercase except e and q
+ * main - Entry point
+ * Description: prints  all alphabets in lowercase except e and q
  * Return: always 0(success)
  */
 int main(void)
