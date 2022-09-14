@@ -1,5 +1,5 @@
 #include "main.h"
-#include <ctype.h>
+#include <stdlib.h>
 /**
  * _abs - entry point
  * @int: accepts int value as parameter
