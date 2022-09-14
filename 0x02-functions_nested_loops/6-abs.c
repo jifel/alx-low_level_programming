@@ -8,9 +8,9 @@
  */
 int _abs(int a)
 {
-	/*int value;*/
+	int value;
 
-	/*value = abs(a);*/
-	_putchar(abs(a));
-	return (0);
+	value = abs(a);
+	/*_putchar(value);*/
+	return (value);
 }
