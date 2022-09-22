@@ -18,6 +18,7 @@ void print_rev(char *s)
 
 		s[len - i - 1] = temp;
 
+		_putchar(s[i]);
 	}
 	_putchar('\n');
 }
