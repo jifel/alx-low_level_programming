@@ -30,7 +30,7 @@ char *rot13(char *s)
 
 	while (s[i])
 	{
-		for (index = 0; index < 52; i++)
+		for (index = 0; index < 52; index++)
 		{
 			if (s[i] == alphabet[index])
 			{
